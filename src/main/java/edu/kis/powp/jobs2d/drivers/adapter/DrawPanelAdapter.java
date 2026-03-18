@@ -33,6 +33,6 @@ public class DrawPanelAdapter extends DrawPanelController implements Job2dDriver
 
 	@Override
 	public String toString() {
-		return "@Q!$!@$!#@$(*#@&Q(%^*#@";
+		return "Drawer driver";
 	}
 }
